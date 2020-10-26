@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/aleksaleksiev/cs107test.svg?branch=main)](https://travis-ci.com/aleksaleksiev/cs107test)
+[![Build Status](https://travis-ci.com/aleksaleksiev/cs107test.svg?branch=master)](https://travis-ci.com/aleksaleksiev/cs107test)
 
 [![codecov](https://codecov.io/gh/aleksaleksiev/cs107test/branch/master/graph/badge.svg?token=BBV0IGFLVL)](undefined)
 
